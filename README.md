@@ -1,5 +1,6 @@
 Candidat au doctorat de sociologie (2026) — spéciliasié dans l'analyse des élites administratives, de l'action publique et des transformations intitutionnelles. 
-Je travaille notamment, dans le cadre du projet de thèse, sur la recomposition de l’autorité décisionnelle et des formes de légitimation au sommet de l’État à l’ère des dispositifs algorithmiques.
+
+Je travaille notamment, dans le cadre de mon projet de thèse, sur la recomposition de l’autorité décisionnelle et des formes de légitimation au sommet de l’État à l’ère des dispositifs algorithmiques.
 
 ## Research focus
 - Gouvernance numérique, instruments algorithmiques, souveraineté et externalisation
@@ -18,6 +19,6 @@ Je travaille notamment, dans le cadre du projet de thèse, sur la recomposition 
 - Synthèse questionnaire INSP (pages interactives) : https://github.com/thibault-lalut/questionnaire-insp-2025
 
 ## Links
-- ORCID : [https://orcid.org/0009-0004-6720-2974]
+- ORCID : https://orcid.org/0009-0004-6720-2974
 - LinkedIn : [https://www.linkedin.com/in/thibault-lalut/](https://www.linkedin.com/in/thibault-lalut/)
 - Email : thibault.lalut@ehess.fr
