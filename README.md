@@ -19,8 +19,7 @@ Je travaille, dans le cadre de mon projet de thèse, sur la recomposition de l�
 
 ## Princiapl featured projects
 - Portfolio de recherche (mémoire EHESS) : https://thibault-lalut.github.io/portfolio-recherche-insp-2025/
-- Projet de thèse (synthèse & matériaux) : https://github.com/thibault-lalut/projet-de-these
-- Synthèse questionnaire INSP (pages interactives) : https://github.com/thibault-lalut/questionnaire-insp-2025
+- Projet de thèse (présentation interactive) : https://github.com/thibault-lalut/projet-de-these
 
 ## Links
 - ORCID : https://orcid.org/0009-0004-6720-2974
