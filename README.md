@@ -9,9 +9,10 @@ Je travaille, dans le cadre de mon projet de thèse, sur la recomposition de l�
 ## Research focus
 - Gouvernance numérique, instruments algorithmiques, souveraineté et externalisation
 - Sociologie de l’action publique, sociologie des organisations, sociologie des élites
-- Approches mixtes : prosopographie, analyse documentaire, entretiens, analyse textuelle
 
 ## Methods & tools
+Approches mixtes : prosopographie, analyse documentaire, questionnaires, entretiens semi-driectifs, traitement statistique, scraping de corpus, lexicométrie, oberservation de terrain...
+
 - **Python (avancé)** : pandas, numpy, scraping (Selenium, BeautifulSoup), traitement de corpus
 - **R (intermédiaire)** : dataviz (ggplot2), manipulation (dplyr), ACM/AFM
 - **Excel (expert)** : nettoyage/recodage, contrôles, TCD, indicateurs
