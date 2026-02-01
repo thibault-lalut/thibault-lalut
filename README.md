@@ -1,6 +1,10 @@
-Candidat au doctorat de sociologie (2026) — spéciliasié dans l'analyse des élites administratives, de l'action publique et des transformations intitutionnelles. 
+# Thibault Lalut
 
-Je travaille notamment, dans le cadre de mon projet de thèse, sur la recomposition de l’autorité décisionnelle et des formes de légitimation au sommet de l’État à l’ère des dispositifs algorithmiques.
+Diplômé de l’EHESS (Master de sociologie, mention Très Bien, juin 2025).  
+Mémoire : **Des énarques aux administrateurs d'État : recompositions institutionnelles et redéfinitions des savoirs entre l’ENA et l’INSP (1945–2025)** (dir. François Denord, CESSP-CNRS)
+
+Projet de thèse (candidature doctorale, 2026) : **Gouverner l'État numérisé à l'épreuve des algorithme : chaînes de décision, prestataires et souveraineté numérique dans la haute fonction publique**
+Je travaille, dans le cadre de mon projet de thèse, sur la recomposition de l’autorité décisionnelle et des formes de légitimation au sommet de l’État à l’ère des dispositifs algorithmiques.
 
 ## Research focus
 - Gouvernance numérique, instruments algorithmiques, souveraineté et externalisation
@@ -11,7 +15,7 @@ Je travaille notamment, dans le cadre de mon projet de thèse, sur la recomposit
 - **Python (avancé)** : pandas, numpy, scraping (Selenium, BeautifulSoup), traitement de corpus
 - **R (intermédiaire)** : dataviz (ggplot2), manipulation (dplyr), ACM/AFM
 - **Excel (expert)** : nettoyage/recodage, contrôles, TCD, indicateurs
-- **Enquêtes** : LimeSurvey / Qualtrics (conception, logique conditionnelle, exports)
+- **LimeSurvey / Qualtrics (expert)** (conception, logique conditionnelle, exports)
 
 ## Princiapl featured projects
 - Portfolio de recherche (mémoire EHESS) : https://thibault-lalut.github.io/portfolio-recherche-insp-2025/
