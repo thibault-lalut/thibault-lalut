@@ -4,6 +4,7 @@ Diplômé de l’EHESS (Master de sociologie, mention Très Bien, juin 2025).
 Mémoire : **Des énarques aux administrateurs d'État : recompositions institutionnelles et redéfinitions des savoirs entre l’ENA et l’INSP (1945–2025)** (dir. François Denord, CESSP-CNRS)
 
 Projet de thèse (candidature doctorale, 2026) : **Gouverner l'État numérisé à l'épreuve des algorithme : chaînes de décision, prestataires et souveraineté numérique dans la haute fonction publique**
+
 Je travaille, dans le cadre de mon projet de thèse, sur la recomposition de l’autorité décisionnelle et des formes de légitimation au sommet de l’État à l’ère des dispositifs algorithmiques.
 
 ## Research focus
