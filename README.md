@@ -27,3 +27,5 @@ Approches mixtes : prosopographie, analyse documentaire, questionnaires, entreti
 - ORCID : https://orcid.org/0009-0004-6720-2974
 - LinkedIn : [https://www.linkedin.com/in/thibault-lalut/](https://www.linkedin.com/in/thibault-lalut/)
 - Email : thibault.lalut@ehess.fr
+
+google-site-verification: google330c451017ce99b5.html
